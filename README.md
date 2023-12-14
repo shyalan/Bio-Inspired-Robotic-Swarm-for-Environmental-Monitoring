@@ -49,15 +49,13 @@ Animated GIFs showcase the simulation run and the efficiency graph, providing a 
 
 **PSO Simulation**
 
-**PSO Simulation**
-
 <img src="https://github.com/shyalan/Bio-Inspired-Robotic-Swarm-for-Environmental-Monitoring/blob/main/Simulation/Data/exploration1.gif" width="400" height="auto"> <img src="https://github.com/shyalan/Bio-Inspired-Robotic-Swarm-for-Environmental-Monitoring/blob/main/Simulation/Data/exploration2.gif" width="400" height="auto">
 
 
-
 - **Efficiency Graph**
-- ![Efficiency Graph](Data/efficiency_graph.gif)
+![Efficiency Graph](Data/efficiency_graph.png)
 
+Efficiency Graph showing 50 attempts in the simulation and its ECE%.
 ## Limitations
 
 - The simulation assumes a 2D grid representation of the environment.
