@@ -52,10 +52,12 @@ Animated GIFs showcase the simulation run and the efficiency graph, providing a 
 <img src="https://github.com/shyalan/Bio-Inspired-Robotic-Swarm-for-Environmental-Monitoring/blob/main/Simulation/Data/exploration1.gif" width="400" height="auto"> <img src="https://github.com/shyalan/Bio-Inspired-Robotic-Swarm-for-Environmental-Monitoring/blob/main/Simulation/Data/exploration2.gif" width="400" height="auto">
 
 
-- **Efficiency Graph**
-![Efficiency Graph](https://github.com/shyalan/Bio-Inspired-Robotic-Swarm-for-Environmental-Monitoring/blob/main/Simulation/Data/efficiency_graph.png)
+**Efficiency Graph**
+<img src="https://github.com/shyalan/Bio-Inspired-Robotic-Swarm-for-Environmental-Monitoring/blob/main/Simulation/Data/efficiency_graph.png" width="500" height="auto">
 
-Efficiency Graph showing 50 attempts in the simulation and its ECE%.
+- Efficiency Graph showing 50 attempts in the simulation and its ECE%.
+- The Average Exploration Coverage Efficiency after 50 attempts is 77%
+
 ## Limitations
 
 - The simulation assumes a 2D grid representation of the environment.
