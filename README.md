@@ -56,7 +56,7 @@ Animated GIFs showcase the simulation run and the efficiency graph, providing a 
 
 <img src="https://github.com/shyalan/Bio-Inspired-Robotic-Swarm-for-Environmental-Monitoring/blob/main/Simulation/Data/efficiency_graph.png" width="500" height="auto">
 
-- Efficiency Graph showing 50 attempts in the simulation and its ECE%.
+- The Efficiency Graph datas are taken from 50 attempts. Each had a 100 iterations, a total of 100km^2 to explore and a swarm size of 70 to maintain uniformity amongst the attempts.
 - The Average Exploration Coverage Efficiency after 50 attempts is 77%
 
 ## Limitations
