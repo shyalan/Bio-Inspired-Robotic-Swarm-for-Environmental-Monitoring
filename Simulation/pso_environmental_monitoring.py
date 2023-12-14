@@ -7,7 +7,7 @@ class Particle:
         self.position = position
         self.velocity = velocity
         self.best_position = position
-        self.best_fitness = 0  # Initialize to 0
+        self.best_fitness = 0
 
 class Circle:
     def __init__(self):
