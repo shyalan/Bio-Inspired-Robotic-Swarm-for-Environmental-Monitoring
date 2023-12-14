@@ -49,7 +49,10 @@ Animated GIFs showcase the simulation run and the efficiency graph, providing a 
 
 **PSO Simulation**
 
-![PSO Simulation 1](https://github.com/shyalan/Bio-Inspired-Robotic-Swarm-for-Environmental-Monitoring/blob/main/Simulation/Data/exploration1.gif) ![PSO Simulation 2](https://github.com/shyalan/Bio-Inspired-Robotic-Swarm-for-Environmental-Monitoring/blob/main/Simulation/Data/exploration2.gif)
+**PSO Simulation**
+
+<img src="https://github.com/shyalan/Bio-Inspired-Robotic-Swarm-for-Environmental-Monitoring/blob/main/Simulation/Data/exploration1.gif" width="400" height="auto"> <img src="https://github.com/shyalan/Bio-Inspired-Robotic-Swarm-for-Environmental-Monitoring/blob/main/Simulation/Data/exploration2.gif" width="400" height="auto">
+
 
 
 - **Efficiency Graph**
