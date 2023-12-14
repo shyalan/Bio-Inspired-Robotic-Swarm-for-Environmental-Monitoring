@@ -49,6 +49,7 @@ Animated GIFs showcase the simulation run and the efficiency graph, providing a 
 
 - **PSO Simulation**
 - ![PSO Simulation](Data/exploration1.gif)
+- ![PSO Simulation](Data/exploration2.gif)
 
 - **Efficiency Graph**
 - ![Efficiency Graph](Data/efficiency_graph.gif)
