@@ -160,7 +160,9 @@ def pso(swarm_size, total_area, max_iterations):
         plt.xlim(0, grid_size)
         plt.ylim(0, grid_size)
         plt.title(f'Particle Swarm Optimization - Iteration {iteration + 1}\n'
+                  f'Total Area: {total_area:.2f} km^2\n'
                   f'Total Explored Area: {total_explored_area:.2f} km^2\n'
+                  f'Swarm Population: {swarm_size:} \n'
                   f'ECE: {total_explored_area / total_area * 100:.1f}%', fontsize=10, color='black')
 
         plt.legend()
