@@ -60,6 +60,8 @@ Animated GIFs showcase the simulation run and the efficiency graph, providing a 
 - The convergence threshold may need adjustment based on specific use cases.
 - The visualization may not be optimal for very large grid sizes.
 - The Calculation of the total explored area is based of the total area and therefore in smaller land masses, it provides in-accurate explored areas as it counts each explored area in smaller fractions and similarly for larger areas.
+- Sensory data such as temeprature and terrain shapes tend to be overlayed upon on each other for larger area and spaced out for smaller areas.
+- Computational Power nad processing Speeds for larger simulations.
 
 ## Author
 
