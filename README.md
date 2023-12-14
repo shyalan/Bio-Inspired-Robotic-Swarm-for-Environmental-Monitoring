@@ -53,7 +53,7 @@ Animated GIFs showcase the simulation run and the efficiency graph, providing a 
 
 
 - **Efficiency Graph**
-![Efficiency Graph](Data/efficiency_graph.png)
+![Efficiency Graph](https://github.com/shyalan/Bio-Inspired-Robotic-Swarm-for-Environmental-Monitoring/blob/main/Simulation/Data/efficiency_graph.png)
 
 Efficiency Graph showing 50 attempts in the simulation and its ECE%.
 ## Limitations
