@@ -48,8 +48,8 @@ The Environmental Coverage Efficiency is calculated as the ratio of the total ex
 Animated GIFs showcase the simulation run and the efficiency graph, providing a visual representation of the PSO algorithm in action.
 
 - **PSO Simulation**
-- ![PSO Simulation](Data/exploration1.gif)
-- ![PSO Simulation](Data/exploration2.gif)
+- ![PSO Simulation](https://github.com/shyalan/Bio-Inspired-Robotic-Swarm-for-Environmental-Monitoring/blob/main/Simulation/Data/exploration1.gif)
+- ![PSO Simulation](https://github.com/shyalan/Bio-Inspired-Robotic-Swarm-for-Environmental-Monitoring/blob/main/Simulation/Data/exploration2.gif)
 
 - **Efficiency Graph**
 - ![Efficiency Graph](Data/efficiency_graph.gif)
